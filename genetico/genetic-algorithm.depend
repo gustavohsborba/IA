@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1427498314 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\functions.cpp
+	<vector>
+	<cmath>
+	"functions.h"
+
+1430589555 .h"
+
+1427373540 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\genetic.cpp
+	<cmath>
+	<vector>
+	"genetic_algorithm.h"
+
+1430592959 lgorithm.h"
+
+1427371786 c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\functions.cpp
+	<vector>
+	<cmath>
+	"functions.h"
+
+1427921633 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\main.cpp
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"genetic_algorithm.h"
+
+1427370118 c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\genetic.cpp
+	<random>
+	<chrono>
+	<cmath>
+	<vector>
+	<algorithm>
+	"genetic_algorithm.h"
+	"functions.cpp"
+
+1427370118 .cpp"
+
+1427500579 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\genetic_algorithm.cpp
+	<algorithm>
+	<chrono>
+	"genetic_algorithm.h"
+	"functions.h"
+	<iostream>
+
+1430590607 
+
+1427373540 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\src\evolutionary.cpp
+	<cmath>
+	<vector>
+	"genetic_algorithm.h"
+
+1427922387 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\src\genetic_algorithm.cpp
+	<algorithm>
+	<chrono>
+	"genetic_algorithm.h"
+	"functions.h"
+	<iostream>
+
+1427745283 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm\src\functions.cpp
+	<vector>
+	<cmath>
+	"functions.h"
+
+1427373540 source:d:\gustavo\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm (1)\src\evolutionary.cpp
+	<cmath>
+	<vector>
+	"genetic_algorithm.h"
+
+1427745283 source:d:\gustavo\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm (1)\src\functions.cpp
+	<vector>
+	<cmath>
+	"functions.h"
+
+1428092926 source:d:\gustavo\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm (1)\src\genetic_algorithm.cpp
+	<algorithm>
+	<chrono>
+	"genetic_algorithm.h"
+	"functions.h"
+	<iostream>
+
+1428092849 source:d:\gustavo\documentos\estudos\engenharia cefet\otimização multiobjetivo\genetic-algorithm (1)\main.cpp
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"genetic_algorithm.h"
+
+1427502198 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\algoritmo genético\implementacao-c\src\evolutionary.cpp
+	<cmath>
+	<vector>
+	"genetic_algorithm.h"
+
+1430589555 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\algoritmo genético\implementacao-c\src\functions.cpp
+	<vector>
+	<cmath>
+	"functions.h"
+
+1430590607 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\algoritmo genético\implementacao-c\src\genetic_algorithm.cpp
+	<algorithm>
+	<chrono>
+	"genetic_algorithm.h"
+	"functions.h"
+	<iostream>
+
+1430592959 source:c:\users\lsi\google drive\documentos\estudos\engenharia cefet\otimização multiobjetivo\algoritmo genético\implementacao-c\main.cpp
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"genetic_algorithm.h"
+
+1441706024 source:/home/gustavo/workspace/IA/Praticas/Pratica09/implementacao-c/main.cpp
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"genetic_algorithm.h"
+
